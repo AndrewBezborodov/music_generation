@@ -1,0 +1,3 @@
+def duration(func):
+
+    pass
